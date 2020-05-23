@@ -1,0 +1,7 @@
+---
+unattended_upgrades_blacklist: []
+unattended_upgrades_enabled: true
+unattended_upgrades_mail_to: ""
+unattended_upgrades_mail_on_error: true
+unattended_upgrades_reboot: false
+unattended_upgrades_reboot_time: "00:00"
