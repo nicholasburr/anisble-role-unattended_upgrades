@@ -9,7 +9,7 @@ galaxy_info:
 
   platforms:
     - name: Ubuntu
-    versions:
+      versions:
       - focal
 
   galaxy_tags: []
