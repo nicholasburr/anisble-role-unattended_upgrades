@@ -21,7 +21,5 @@
     state: started
     enabled: true
   loop:
-    - apt-daily-upgrade.service
-    - apt-daily.service
     - apt-daily-upgrade.timer
     - apt-daily.timer
